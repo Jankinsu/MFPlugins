@@ -606,6 +606,7 @@ module.exports = {
     };
   },
   getLyric,
+  getMediaSource,
   getAlbumInfo,
   getArtistWorks,
   importMusicSheet,
