@@ -548,7 +548,7 @@ async function getMusicSheetInfo(sheet, page) {
 module.exports = {
   platform: "QQ_music",
   author: "Jankinsu",
-  version: "0.2.3",
+  version: "0.2.4",
   srcUrl:
     "https://raw.githubusercontent.com/Jankinsu/MFPlugins/master/scripts/QQmusic.js",
   cacheControl: "no-cache",
