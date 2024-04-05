@@ -2,7 +2,7 @@
   "plugins": [
     {
       "name": "QQMusic",
-      "url": "https://raw.githubusercontent.com/Jankinsu/MFPlugins/master/scripts/QQ%E9%9F%B3%E4%B9%90_0.2.2.js",
+      "url": "https://raw.githubusercontent.com/Jankinsu/MFPlugins/master/scripts/QQmusic_0.2.2.js",
       "version": "0.2.2"
     }
   ]
