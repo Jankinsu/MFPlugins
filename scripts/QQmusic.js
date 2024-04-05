@@ -548,9 +548,9 @@ async function getMusicSheetInfo(sheet, page) {
 module.exports = {
   platform: "QQ_music",
   author: "Jankinsu",
-  version: "0.2.2",
+  version: "0.2.3",
   srcUrl:
-    "https://raw.githubusercontent.com/Jankinsu/MFPlugins/master/scripts/QQmusic_0.2.2.js",
+    "https://raw.githubusercontent.com/Jankinsu/MFPlugins/master/scripts/QQmusic.js",
   cacheControl: "no-cache",
   hints: {
     importMusicSheet: [
@@ -606,6 +606,7 @@ module.exports = {
     };
   },
   getLyric,
+  getMediaSource,
   getAlbumInfo,
   getArtistWorks,
   importMusicSheet,
